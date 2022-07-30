@@ -1,0 +1,27 @@
+{
+  "name": "wd201-milestones",
+  "version": "1.0.0",
+  "description": "WD 201 Milestones for the Pupilfirst TA training",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuran-roy/wd201-milestones.git"
+  },
+  "keywords": [
+    "nodejs",
+    "web",
+    "development",
+    "backend",
+    "development",
+    "javascript"
+  ],
+  "author": "Anuran Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuran-roy/wd201-milestones/issues"
+  },
+  "homepage": "https://github.com/anuran-roy/wd201-milestones#readme"
+}

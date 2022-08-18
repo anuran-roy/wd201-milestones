@@ -1,4 +1,4 @@
-# WD 201 Milestone 
+# WD 201 Milestone
 
 ## Level 2
 
